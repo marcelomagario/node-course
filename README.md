@@ -1,1 +1,1 @@
-# node-course
+# W3C School course
